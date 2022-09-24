@@ -10,7 +10,7 @@ If it will solve a problem, I want to be part of it. Solving problems excites me
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
 
-<a href="https://ushahembashir.com/">Portfolio</a>&nbsp;<a href="https://www.linkedin.com/in/jamesobed/">LinkedIn</a>
+<a href="https://obedjamesportfolio.netlify.app/">Portfolio</a>&nbsp;<a href="https://www.linkedin.com/in/obed-james-72671b167">LinkedIn</a>
 
 <br />
 
