@@ -1,4 +1,4 @@
-<h2>Hi I'm James Obed! 👋</h2>
+<h2>Hi I'm Obed James 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jamesobed.jamesobed)](https://github.com/jamesobed) [![GitHub followers](https://img.shields.io/github/followers/jamesobed.svg?style=social&label=Follow)](https://github.com/jamesobed?tab=followers)
 
