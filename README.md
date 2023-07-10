@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jamesobed.jamesobed)](https://github.com/jamesobed) [![GitHub followers](https://img.shields.io/github/followers/jamesobed.svg?style=social&label=Follow)](https://github.com/jamesobed?tab=followers)
 
-<p>I am a software developer with a cumulative of 3 years experience, 1 year of non-commercial experience and 3 years of commercial experience.My skills set include TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku.
+<p>I am a software developer with a cumulative of 4 years experience, 1 year of non-commercial experience and 3 years of commercial experience.My skills set include Python, TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku, AWS and Digital Ocean.
 </p>
 <p>
 If it will solve a problem, I want to be part of it. Solving problems excites me. My focus is always on the problem, I take my time to think out critically and come up with an optimal solution before converting the solution to clean and executable codes.
@@ -30,6 +30,7 @@ If it will solve a problem, I want to be part of it. Solving problems excites me
 
 #### &nbsp; Backend
 
+![Python Django](https://img.shields.io/badge/Python-Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
