@@ -74,7 +74,10 @@ If it will solve a problem, I want to be part of it. Solving problems excites me
 
 ![ESLINT](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 ![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)&nbsp;
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)](https://www.rabbitmq.com/)
+[![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
+
 
 </br>
 
