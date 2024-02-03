@@ -35,6 +35,7 @@ If it will solve a problem, I want to be part of it. Solving problems excites me
 ![Python Django](https://img.shields.io/badge/Python-Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Java with Spring Boot](https://img.shields.io/badge/-Java%20with%20Spring%20Boot-05122A?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
